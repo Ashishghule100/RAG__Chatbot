@@ -1,0 +1,11 @@
+streamlit
+chromadb
+sentence-transformers
+pytesseract
+pdf2image
+pypdf2
+langchain-text-splitters
+Pillow
+python-dotenv
+numpy
+llama-cpp-python

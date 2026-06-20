@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What does the Prologue of 'Romeo and Juliet' call the two main characters?",
+    "expected_answer": "star-cross'd lovers"
+  },
+  {
+    "question": "Which character speaks the line, 'O Romeo, Romeo! wherefore art thou Romeo?'",
+    "expected_answer": "Juliet"
+  },
+  {
+    "question": "Who is killed by Romeo as revenge for the death of Mercutio?",
+    "expected_answer": "Tybalt"
+  },
+  {
+    "question": "What is the name of the friar who marries Romeo and Juliet?",
+    "expected_answer": "Friar Lawrence"
+  },
+  {
+    "question": "How does Juliet die?",
+    "expected_answer": "She stabs herself with Romeo's dagger."
+  },
+  {
+    "question": "What is the name of the city where 'Romeo and Juliet' is set?",
+    "expected_answer": "Verona"
+  },
+  {
+    "question": "What does Romeo drink in Juliet's tomb that kills him?",
+    "expected_answer": "poison"
+  },
+  {
+    "question": "According to the Prince, what is the 'story of more woe' about?",
+    "expected_answer": "Juliet and her Romeo"
+  },
+  {
+    "question": "What does Alice see the White Rabbit take out of its waistcoat-pocket?",
+    "expected_answer": "a watch"
+  },
+  {
+    "question": "What is the name of Alice's cat?",
+    "expected_answer": "Dinah"
+  },
+  {
+    "question": "What does Alice eat to make herself grow larger?",
+    "expected_answer": "a cake"
+  },
+  {
+    "question": "What happens to Alice's baby after she takes it from the Duchess's house?",
+    "expected_answer": "It turns into a pig."
+  },
+  {
+    "question": "What is the Cheshire Cat's most distinctive feature?",
+    "expected_answer": "its grin"
+  },
+  {
+    "question": "At the Mad Tea-Party, what time of day is it always?",
+    "expected_answer": "six o'clock"
+  },
+  {
+    "question": "In the Queen of Heart's croquet game, what are the balls and mallets made of?",
+    "expected_answer": "The balls are hedgehogs and the mallets are flamingoes."
+  },
+  {
+    "question": "What does the Queen of Hearts constantly order?",
+    "expected_answer": "Off with their heads!"
+  },
+  {
+    "question": "What was the name of the Mock Turtle's schoolmaster?",
+    "expected_answer": "Tortoise"
+  },
+  {
+    "question": "What does Alice wake up to find at the end of her adventures?",
+    "expected_answer": "She is lying on the bank with her head in her sister's lap."
+  },
+  {
+    "question": "What is Valancy Stirling's nickname in her family?",
+    "expected_answer": "Doss"
+  },
+  {
+    "question": "What is the name of Valancy's fantasy world where she escapes reality?",
+    "expected_answer": "The Blue Castle"
+  },
+  {
+    "question": "Why does Valancy finally decide to leave her family home?",
+    "expected_answer": "She believes she has a fatal heart condition and wants to live her life freely."
+  },
+  {
+    "question": "What is the name of the man Valancy marries?",
+    "expected_answer": "Barney Snaith"
+  },
+  {
+    "question": "What is the name of the island where Barney lives?",
+    "expected_answer": "Mistawis"
+  },
+  {
+    "question": "What is Cissy Gay's situation when Valancy goes to live with her?",
+    "expected_answer": "She is dying of consumption and has been ostracised by the community."
+  },
+  {
+    "question": "What was the profession of Cissy Gay's father, Abel?",
+    "expected_answer": "A carpenter"
+  },
+  {
+    "question": "What is the real identity of Barney Snaith?",
+    "expected_answer": "Bernard Redfern, the son of a millionaire and the writer John Foster."
+  },
+  {
+    "question": "What was the reason for Barney Snaith leaving his home in Montreal?",
+    "expected_answer": "He discovered his fiancée, Ethel Traverse, was only interested in his money."
+  },
+  {
+    "question": "What does Valancy discover at the end of the novel that changes everything?",
+    "expected_answer": "Dr. Trent had sent her the wrong letter and her heart condition was a misdiagnosis."
+  }
+]
